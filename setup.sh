@@ -8,9 +8,6 @@
 # Install wget
 brew install wget
 
-# Install git
-brew install git
-
 # Instal aws cli
 brew install awscli
 
