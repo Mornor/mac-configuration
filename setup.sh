@@ -30,6 +30,8 @@ brew install --cask vscodium
 brew install --cask iterm2
 
 # Instal fish terminal
+# Check https://github.com/fish-shell/fish-shell/issues/8105#issuecomment-875026707
+# On ~/.config/fish/functions/fish_prompt.fish
 brew install fish
 
 # Install and configure Oh My Fish
